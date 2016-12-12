@@ -29,6 +29,7 @@ class Davo
                 if (i + j == k && i < j) 
                 {
                     reslut = reslut + 1;
+
                 }
             }
         }
